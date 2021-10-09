@@ -1,2 +1,2 @@
 # harga fee termurah
-just another repository
+Tugas data sains
